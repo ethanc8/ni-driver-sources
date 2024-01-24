@@ -1,0 +1,15 @@
+Package: ni-software-2023-jammy
+Version: 23.8.0.49572-0+f420
+Architecture: all
+Maintainer: National Instruments <LinuxMaintainers@ni.com>
+Source: ni-software-2023-jammy
+Section: misc
+Priority: optional
+Homepage: https://www.ni.com/r/ni-linux-device-drivers
+Description:  National Instruments 2023 Software repository enablement
+ This package enables a version of the National Instruments 2023
+ software repository for the system's package manager.
+ .
+ Consult your system's package management software documentation for assistance
+ in modifying the installed software set.
+
